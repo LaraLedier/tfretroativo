@@ -1,0 +1,1 @@
+Professor, pode ser que ocorra algum erro relacionado as credenciais do banco de dados, ocasionado pelo fato de eu não conseguir baixar e configurar o postgreSQL, mas acho que o código esteja correto.
