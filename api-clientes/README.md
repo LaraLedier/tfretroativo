@@ -1,1 +1,1 @@
-Professor, pode ser que ocorra algum erro relacionado as credenciais do banco de dados, ocasionado pelo fato de eu não conseguir baixar e configurar o postgreSQL, mas acho que o código esteja correto.
+Professor, talvez ocorra algum erro relacionado as credenciais do banco de dados, pelo fato de eu não conseguir baixar e configurar o postgreSQL, mas acho que o código esteja correto. O arquivo que enviei para o meu repositório está como juancamacho100, por conta do histórico do navegador que eu não soube mudar.
